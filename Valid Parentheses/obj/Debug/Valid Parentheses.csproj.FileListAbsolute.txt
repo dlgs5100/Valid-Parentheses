@@ -1,0 +1,21 @@
+C:\Users\jerry.cheng78\documents\visual studio 2017\Projects\Valid Parentheses\Valid Parentheses\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\jerry.cheng78\documents\visual studio 2017\Projects\Valid Parentheses\Valid Parentheses\bin\Debug\nunit.engine.dll
+C:\Users\jerry.cheng78\documents\visual studio 2017\Projects\Valid Parentheses\Valid Parentheses\bin\Debug\nunit.engine.api.dll
+C:\Users\jerry.cheng78\documents\visual studio 2017\Projects\Valid Parentheses\Valid Parentheses\bin\Debug\Mono.Cecil.dll
+C:\Users\jerry.cheng78\documents\visual studio 2017\Projects\Valid Parentheses\Valid Parentheses\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\jerry.cheng78\documents\visual studio 2017\Projects\Valid Parentheses\Valid Parentheses\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\jerry.cheng78\documents\visual studio 2017\Projects\Valid Parentheses\Valid Parentheses\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\jerry.cheng78\documents\visual studio 2017\Projects\Valid Parentheses\Valid Parentheses\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jerry.cheng78\documents\visual studio 2017\Projects\Valid Parentheses\Valid Parentheses\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jerry.cheng78\documents\visual studio 2017\Projects\Valid Parentheses\Valid Parentheses\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jerry.cheng78\documents\visual studio 2017\Projects\Valid Parentheses\Valid Parentheses\bin\Debug\Valid Parentheses.dll
+C:\Users\jerry.cheng78\documents\visual studio 2017\Projects\Valid Parentheses\Valid Parentheses\bin\Debug\Valid Parentheses.pdb
+C:\Users\jerry.cheng78\documents\visual studio 2017\Projects\Valid Parentheses\Valid Parentheses\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jerry.cheng78\documents\visual studio 2017\Projects\Valid Parentheses\Valid Parentheses\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jerry.cheng78\documents\visual studio 2017\Projects\Valid Parentheses\Valid Parentheses\bin\Debug\nunit.framework.dll
+C:\Users\jerry.cheng78\documents\visual studio 2017\Projects\Valid Parentheses\Valid Parentheses\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jerry.cheng78\documents\visual studio 2017\Projects\Valid Parentheses\Valid Parentheses\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jerry.cheng78\documents\visual studio 2017\Projects\Valid Parentheses\Valid Parentheses\bin\Debug\nunit.framework.xml
+C:\Users\jerry.cheng78\documents\visual studio 2017\Projects\Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses.csprojResolveAssemblyReference.cache
+C:\Users\jerry.cheng78\documents\visual studio 2017\Projects\Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses.dll
+C:\Users\jerry.cheng78\documents\visual studio 2017\Projects\Valid Parentheses\Valid Parentheses\obj\Debug\Valid Parentheses.pdb
